@@ -1,0 +1,3 @@
+Word count of IF.txt: 287
+Word count of AlwaysRememberUsThisWay.txt: 223
+Total word count: 510

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "mediaType": "application/vnd.oci.image.manifest.v1+json",
+  "config": {
+    "mediaType": "application/vnd.oci.image.config.v1+json",
+    "digest": "sha256:29154fa0d0c86767dd536d47a88a97949096571b9a8ee0e5ae658e46331b1e44",
+    "size": 6639
+  },
+  "layers": [
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:a480a496ba95a197d587aa1d9e0f545ca7dbd40495a4715342228db62b67c4ba",
+      "size": 29126289
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:99b8d55c8acd10aa3901ad6f43d5998b882c1f4acaca51f005625b23893f0367",
+      "size": 3511476
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:151089ffef3f9093a349049321fa9a4668c29b122d05224e443c5e996fb60da5",
+      "size": 14923042
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:277f520eee4a7406e307add15a461fa57bfe184f595671f364066ab24264cb1a",
+      "size": 250
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:b2fdb8bf9c2194b0d075c586e818447980a07be2db23a900fe64226700a06cd6",
+      "size": 115
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:019e37a2184dbdf18e9d7d31eeeb53af50827913b6d92c12af20c22d642c1a99",
+      "size": 481
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:b2b25baa9f880bf06ebb65e8f4960a2378d802062d58311b1a1ea7e7a9b3f049",
+      "size": 941
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:70e3d52ba858773b3aeac502d7cfab234af44b1646b0bc8976cd64f89f20d412",
+      "size": 606
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:09e2a08cf61d5380eb38d32dba189b902a90693ed89e0a781c161e5b3e9a096c",
+      "size": 131
+    }
+  ]
+}
